@@ -1,4 +1,4 @@
-## Welcome to Sheela Store { This store insprition is my mom }React Ecommerce Website Series
+
 <img
   src="Assets/Home.png"
   alt="Alt text"
