@@ -1,9 +1,4 @@
 
-<img
-  src="Assets/Home.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto;">
   <img
   src="Assets/Features.png"
   alt="Alt text"
